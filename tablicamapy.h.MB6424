@@ -1,0 +1,20 @@
+#ifndef TABLICAMAPY_H
+#define TABLICAMAPY_H
+
+#include <QString>
+
+
+class TablicaMapy
+{
+public:
+    TablicaMapy();
+    void OdczytZPliku();
+
+private:
+    int TabMapy [4][4];
+    QString TabZPliku [4][4];
+
+
+};
+
+#endif // TABLICAMAPY_H

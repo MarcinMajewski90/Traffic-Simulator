@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/nowa mapa.png</file>
+        <file>img/Sam.png</file>
+        <file>img/PPion.png</file>
+        <file>img/PPoz.png</file>
+        <file>img/TD.png</file>
+        <file>img/TG.png</file>
+        <file>img/TL.png</file>
+        <file>img/TP.png</file>
+        <file>img/Trawa.png</file>
+        <file>img/X.png</file>
+        <file>img/ZDL.png</file>
+        <file>img/ZDP.png</file>
+        <file>img/ZGL.png</file>
+        <file>img/ZGP.png</file>
+        <file>img/tablica.txt</file>
+        <file>img/PPoz.jpg</file>
+    </qresource>
+</RCC>
